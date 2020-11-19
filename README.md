@@ -1,0 +1,1 @@
+This is a test suite for the Engima simulator published by the NSA (https://github.com/NationalSecurityAgency/enigma-simulator). It is written using pytest and has 100% branch coverage using the coverage tool in python.
